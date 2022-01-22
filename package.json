@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "tsdx-import-types-issue",
+  "name": "ts-import-types-issue",
   "author": "Iman Mohammadi",
   "module": "dist/tsdx-import-types-issue.esm.js",
   "size-limit": [

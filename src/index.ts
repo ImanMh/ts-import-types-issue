@@ -1,4 +1,4 @@
-import { sum } from 'math/sum/sum';
+import { sum } from 'math/sum';
 import { concat } from 'string/concat';
 
 export {
